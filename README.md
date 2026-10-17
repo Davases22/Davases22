@@ -11,7 +11,7 @@ I build web and mobile apps, document AI and AI powered SaaS that reach producti
 
 <a href="https://apps.apple.com/app/futtem/id6739542468"><img src="assets/work/futtem.jpg" align="right" width="300" alt="FUTTEM"></a>
 
-**FUTTEM** &nbsp;🇨🇴  
+**[FUTTEM](https://www.futtem.com)** &nbsp;🇨🇴  
 Amateur football app on iPhone, iPad, Apple Watch and Android, live in both stores. I built the app and its wallet, chat and real time services.  
 [App Store](https://apps.apple.com/app/futtem/id6739542468) &nbsp;·&nbsp; [Google Play](https://play.google.com/store/apps/details?id=com.futtem.app)
 
@@ -22,7 +22,7 @@ Amateur football app on iPhone, iPad, Apple Watch and Android, live in both stor
 
 <a href="https://www.attosound.com"><img src="assets/work/atto.jpg" align="right" width="300" alt="ATTO Sound"></a>
 
-**ATTO Sound** &nbsp;🇺🇸  
+**[ATTO Sound](https://www.attosound.com)** &nbsp;🇺🇸  
 Creator platform for people who are incarcerated: an iOS app that turns prison phone calls into recorded in app VoIP calls. Sole engineer of the app and its services.  
 [TestFlight beta](https://testflight.apple.com/join/m1EXaKAx) &nbsp;·&nbsp; [attosound.com](https://www.attosound.com)
 
@@ -31,20 +31,18 @@ Creator platform for people who are incarcerated: an iOS app that turns prison p
 <br clear="right">
 <br>
 
-<a href="https://www.piebaldcapital.com"><img src="assets/work/piebald.jpg" align="right" width="300" alt="Document AI for customs paperwork"></a>
+<a href="https://www.ezdocu.ai"><img src="assets/work/ezdocu.jpg" align="right" width="300" alt="EZDocu"></a>
 
-**Document AI for customs paperwork** &nbsp;🇲🇽  
-API that turns scanned customs invoices into structured data for agencies in Mexico. More than 17,000 production batches from 14 agencies in its first three months.  
-[piebaldcapital.com](https://www.piebaldcapital.com)
-
+**[EZDocu](https://www.ezdocu.ai)** &nbsp;🇺🇸 🇲🇽  
+Lead engineer of the EZDocu OCR API, which turns scanned documents into structured data with LLMs. In production for [RECO](https://www.reco.com.mx) customs agencies in Mexico: more than 17,000 batches from 14 agencies in its first three months. I also contributed to the EZDocuAI translation workspace.  
+[ezdocu.ai](https://www.ezdocu.ai)
 <a href="https://www.python.org"><img src="assets/tools/python.png" height="28" alt="Python" title="Python"></a>&nbsp;<a href="https://fastapi.tiangolo.com"><img src="assets/tools/fastapi.png" height="28" alt="FastAPI" title="FastAPI"></a>&nbsp;<a href="https://aws.amazon.com"><img src="assets/tools/aws.png" height="28" alt="AWS" title="AWS"></a>&nbsp;<a href="https://www.terraform.io"><img src="assets/tools/terraform.png" height="28" alt="Terraform" title="Terraform"></a>&nbsp;<a href="https://cloud.google.com"><img src="assets/tools/googlecloud.png" height="28" alt="Google Cloud" title="Google Cloud"></a>&nbsp;<a href="https://gemini.google.com"><img src="assets/tools/gemini.png" height="28" alt="Gemini" title="Gemini"></a>&nbsp;<a href="https://www.deepseek.com"><img src="assets/tools/deepseek.png" height="28" alt="DeepSeek" title="DeepSeek"></a>&nbsp;<a href="https://docs.vllm.ai"><img src="assets/tools/vllm.png" height="28" alt="vLLM" title="vLLM"></a>&nbsp;<a href="https://github.com/features/actions"><img src="assets/tools/githubactions.png" height="28" alt="GitHub Actions" title="GitHub Actions"></a>
-
 <br clear="right">
 <br>
 
 <a href="https://www.imagiq.com"><img src="assets/work/imagiq.jpg" align="right" width="300" alt="iMagiQ, Samsung Store Colombia"></a>
 
-**iMagiQ, Samsung Store Colombia** &nbsp;🇨🇴  
+**[iMagiQ, Samsung Store Colombia](https://www.imagiq.com)** &nbsp;🇨🇴  
 Online store, in store kiosk and admin dashboard on eleven NestJS microservices, with local payments, shipping and an AI product categorizer.  
 [imagiq.com](https://www.imagiq.com)
 
@@ -55,7 +53,7 @@ Online store, in store kiosk and admin dashboard on eleven NestJS microservices,
 
 <a href="https://www.ezmig.ai"><img src="assets/work/ezmig.jpg" align="right" width="300" alt="EZMig"></a>
 
-**EZMig** &nbsp;🇺🇸  
+**[EZMig](https://www.ezmig.ai)** &nbsp;🇺🇸  
 Immigration case management with Claude powered form filling, passport reading and real time collaborative editing.  
 [ezmig.ai](https://www.ezmig.ai)
 
@@ -66,7 +64,7 @@ Immigration case management with Claude powered form filling, passport reading a
 
 <a href="https://www.accesify.com"><img src="assets/work/accesify.jpg" align="right" width="300" alt="Accesify"></a>
 
-**Accesify** &nbsp;🇨🇴  
+**[Accesify](https://www.accesify.com)** &nbsp;🇨🇴  
 My own phone accessories ecommerce with installment payments, on its own store and Mercado Libre, built on Medusa with 37 custom modules.  
 [accesify.com](https://www.accesify.com)
 
@@ -77,7 +75,7 @@ My own phone accessories ecommerce with installment payments, on its own store a
 
 <a href="https://fridoom.com"><img src="assets/work/fridoom.jpg" align="right" width="300" alt="Fridoom"></a>
 
-**Fridoom** &nbsp;🇨🇴  
+**[Fridoom](https://fridoom.com)** &nbsp;🇨🇴  
 My personal finance education brand that sells investing reports.  
 [fridoom.com](https://fridoom.com)
 
@@ -111,4 +109,4 @@ My personal finance education brand that sells investing reports.
 
 ### Background
 
-B.Eng. in Mechatronic Engineering, Universidad Militar Nueva Granada 🇨🇴. Before building products full time I worked on CRM and cross selling for Colombia and Chile at Rappi, on growth for the first Colombia Tech Week, and on PLC automation for Coca-Cola FEMSA. Spanish native, English C1.
+B.Eng. in Mechatronic Engineering, [Universidad Militar Nueva Granada](https://umng.edu.co) 🇨🇴. Before building products full time I worked on CRM and cross selling for Colombia and Chile at [Rappi](https://www.rappi.com.co), on growth for the first [Colombia Tech Week](https://colombiatechweek.co), and on PLC automation for [Coca-Cola FEMSA](https://coca-colafemsa.com). Spanish native, English C1.
